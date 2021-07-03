@@ -5,9 +5,9 @@ using System.Text;
 namespace HomeWork_Essential_2_3
 {
 	class Invoice {
-		private int _account;
-		private string _customer;
-		private string _provader;
+		private readonly int _account;
+		private readonly string _customer;
+		private readonly string _provader;
 
 		public int Account { get { return _account; } }
 		public string Customer { get { return _customer; } }
