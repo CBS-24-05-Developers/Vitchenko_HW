@@ -1,0 +1,6 @@
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_4\bin\Debug\Classes9.exe
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_4\bin\Debug\Classes9.pdb
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_4\obj\x86\Debug\HomeWork_Essential_4.csprojAssemblyReference.cache
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_4\obj\x86\Debug\HomeWork_Essential_4.csproj.CoreCompileInputs.cache
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_4\obj\x86\Debug\Classes9.exe
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_4\obj\x86\Debug\Classes9.pdb
