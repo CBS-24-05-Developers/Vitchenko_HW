@@ -1,0 +1,6 @@
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_5\bin\Debug\Indexers5.exe
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_5\bin\Debug\Indexers5.pdb
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_5\obj\x86\Debug\HomeWork_Essential_5.csprojAssemblyReference.cache
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_5\obj\x86\Debug\HomeWork_Essential_5.csproj.CoreCompileInputs.cache
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_5\obj\x86\Debug\Indexers5.exe
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_5\obj\x86\Debug\Indexers5.pdb
