@@ -1,0 +1,13 @@
+C:\Training\Project\HomeWork\basic (oop)\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+C:\Training\Project\HomeWork\basic (oop)\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+C:\Training\Project\HomeWork\basic (oop)\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+C:\Training\Project\HomeWork\basic (oop)\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+C:\Training\Project\HomeWork\basic (oop)\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+C:\Training\Project\HomeWork\basic (oop)\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+C:\Training\Project\HomeWork\basic (oop)\Task2\obj\Debug\netcoreapp3.1\Task2.csprojAssemblyReference.cache
+C:\Training\Project\HomeWork\basic (oop)\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+C:\Training\Project\HomeWork\basic (oop)\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+C:\Training\Project\HomeWork\basic (oop)\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+C:\Training\Project\HomeWork\basic (oop)\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+C:\Training\Project\HomeWork\basic (oop)\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
+C:\Training\Project\HomeWork\basic (oop)\Task2\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache
