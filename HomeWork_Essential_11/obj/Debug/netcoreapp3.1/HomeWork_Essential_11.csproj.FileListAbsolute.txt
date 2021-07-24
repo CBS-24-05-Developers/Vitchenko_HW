@@ -1,0 +1,13 @@
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_11\bin\Debug\netcoreapp3.1\HomeWork_Essential_11.exe
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_11\bin\Debug\netcoreapp3.1\HomeWork_Essential_11.deps.json
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_11\bin\Debug\netcoreapp3.1\HomeWork_Essential_11.runtimeconfig.json
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_11\bin\Debug\netcoreapp3.1\HomeWork_Essential_11.runtimeconfig.dev.json
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_11\bin\Debug\netcoreapp3.1\HomeWork_Essential_11.dll
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_11\bin\Debug\netcoreapp3.1\HomeWork_Essential_11.pdb
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_11\obj\Debug\netcoreapp3.1\HomeWork_Essential_11.csprojAssemblyReference.cache
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_11\obj\Debug\netcoreapp3.1\HomeWork_Essential_11.AssemblyInfoInputs.cache
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_11\obj\Debug\netcoreapp3.1\HomeWork_Essential_11.AssemblyInfo.cs
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_11\obj\Debug\netcoreapp3.1\HomeWork_Essential_11.csproj.CoreCompileInputs.cache
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_11\obj\Debug\netcoreapp3.1\HomeWork_Essential_11.dll
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_11\obj\Debug\netcoreapp3.1\HomeWork_Essential_11.pdb
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_11\obj\Debug\netcoreapp3.1\HomeWork_Essential_11.genruntimeconfig.cache
