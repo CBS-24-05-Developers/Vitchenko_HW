@@ -1,0 +1,15 @@
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\HomeWork_Essential_12_1\bin\Debug\netcoreapp3.1\HomeWork_Essential_12_1.exe
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\HomeWork_Essential_12_1\bin\Debug\netcoreapp3.1\HomeWork_Essential_12_1.deps.json
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\HomeWork_Essential_12_1\bin\Debug\netcoreapp3.1\HomeWork_Essential_12_1.runtimeconfig.json
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\HomeWork_Essential_12_1\bin\Debug\netcoreapp3.1\HomeWork_Essential_12_1.runtimeconfig.dev.json
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\HomeWork_Essential_12_1\bin\Debug\netcoreapp3.1\HomeWork_Essential_12_1.dll
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\HomeWork_Essential_12_1\bin\Debug\netcoreapp3.1\HomeWork_Essential_12_1.pdb
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\HomeWork_Essential_12_1\obj\Debug\netcoreapp3.1\HomeWork_Essential_12_1.csprojAssemblyReference.cache
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\HomeWork_Essential_12_1\obj\Debug\netcoreapp3.1\HomeWork_Essential_12_1.Form1.resources
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\HomeWork_Essential_12_1\obj\Debug\netcoreapp3.1\HomeWork_Essential_12_1.csproj.GenerateResource.cache
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\HomeWork_Essential_12_1\obj\Debug\netcoreapp3.1\HomeWork_Essential_12_1.AssemblyInfoInputs.cache
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\HomeWork_Essential_12_1\obj\Debug\netcoreapp3.1\HomeWork_Essential_12_1.AssemblyInfo.cs
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\HomeWork_Essential_12_1\obj\Debug\netcoreapp3.1\HomeWork_Essential_12_1.csproj.CoreCompileInputs.cache
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\HomeWork_Essential_12_1\obj\Debug\netcoreapp3.1\HomeWork_Essential_12_1.dll
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\HomeWork_Essential_12_1\obj\Debug\netcoreapp3.1\HomeWork_Essential_12_1.pdb
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\HomeWork_Essential_12_1\obj\Debug\netcoreapp3.1\HomeWork_Essential_12_1.genruntimeconfig.cache

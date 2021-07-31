@@ -1,0 +1,13 @@
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\MVP\bin\Debug\MVP.exe
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\MVP\bin\Debug\MVP.pdb
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\MVP\obj\x86\Debug\HomeWork_Essential_12.csprojAssemblyReference.cache
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\MVP\obj\x86\Debug\MainWindow.baml
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\MVP\obj\x86\Debug\MainWindow.g.cs
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\MVP\obj\x86\Debug\App.g.cs
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\MVP\obj\x86\Debug\MVP_MarkupCompile.cache
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\MVP\obj\x86\Debug\MVP.g.resources
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\MVP\obj\x86\Debug\MVP.Properties.Resources.resources
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\MVP\obj\x86\Debug\HomeWork_Essential_12.csproj.GenerateResource.cache
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\MVP\obj\x86\Debug\HomeWork_Essential_12.csproj.CoreCompileInputs.cache
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\MVP\obj\x86\Debug\MVP.exe
+C:\Training\Project\HomeWork\basic (oop)\HomeWork_Essential_12\MVP\obj\x86\Debug\MVP.pdb
