@@ -1,0 +1,13 @@
+C:\Training\Project\HomeWork\professional\HW_Professional_7\bin\Debug\netcoreapp3.1\HW_Professional_7.exe
+C:\Training\Project\HomeWork\professional\HW_Professional_7\bin\Debug\netcoreapp3.1\HW_Professional_7.deps.json
+C:\Training\Project\HomeWork\professional\HW_Professional_7\bin\Debug\netcoreapp3.1\HW_Professional_7.runtimeconfig.json
+C:\Training\Project\HomeWork\professional\HW_Professional_7\bin\Debug\netcoreapp3.1\HW_Professional_7.runtimeconfig.dev.json
+C:\Training\Project\HomeWork\professional\HW_Professional_7\bin\Debug\netcoreapp3.1\HW_Professional_7.dll
+C:\Training\Project\HomeWork\professional\HW_Professional_7\bin\Debug\netcoreapp3.1\HW_Professional_7.pdb
+C:\Training\Project\HomeWork\professional\HW_Professional_7\obj\Debug\netcoreapp3.1\HW_Professional_7.csprojAssemblyReference.cache
+C:\Training\Project\HomeWork\professional\HW_Professional_7\obj\Debug\netcoreapp3.1\HW_Professional_7.AssemblyInfoInputs.cache
+C:\Training\Project\HomeWork\professional\HW_Professional_7\obj\Debug\netcoreapp3.1\HW_Professional_7.AssemblyInfo.cs
+C:\Training\Project\HomeWork\professional\HW_Professional_7\obj\Debug\netcoreapp3.1\HW_Professional_7.csproj.CoreCompileInputs.cache
+C:\Training\Project\HomeWork\professional\HW_Professional_7\obj\Debug\netcoreapp3.1\HW_Professional_7.dll
+C:\Training\Project\HomeWork\professional\HW_Professional_7\obj\Debug\netcoreapp3.1\HW_Professional_7.pdb
+C:\Training\Project\HomeWork\professional\HW_Professional_7\obj\Debug\netcoreapp3.1\HW_Professional_7.genruntimeconfig.cache

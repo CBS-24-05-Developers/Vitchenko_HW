@@ -1,0 +1,13 @@
+C:\Training\Project\HomeWork\professional\HomeWork_professional_2\bin\Debug\netcoreapp3.1\HomeWork_professional_2.exe
+C:\Training\Project\HomeWork\professional\HomeWork_professional_2\bin\Debug\netcoreapp3.1\HomeWork_professional_2.deps.json
+C:\Training\Project\HomeWork\professional\HomeWork_professional_2\bin\Debug\netcoreapp3.1\HomeWork_professional_2.runtimeconfig.json
+C:\Training\Project\HomeWork\professional\HomeWork_professional_2\bin\Debug\netcoreapp3.1\HomeWork_professional_2.runtimeconfig.dev.json
+C:\Training\Project\HomeWork\professional\HomeWork_professional_2\bin\Debug\netcoreapp3.1\HomeWork_professional_2.dll
+C:\Training\Project\HomeWork\professional\HomeWork_professional_2\bin\Debug\netcoreapp3.1\HomeWork_professional_2.pdb
+C:\Training\Project\HomeWork\professional\HomeWork_professional_2\obj\Debug\netcoreapp3.1\HomeWork_professional_2.csprojAssemblyReference.cache
+C:\Training\Project\HomeWork\professional\HomeWork_professional_2\obj\Debug\netcoreapp3.1\HomeWork_professional_2.AssemblyInfoInputs.cache
+C:\Training\Project\HomeWork\professional\HomeWork_professional_2\obj\Debug\netcoreapp3.1\HomeWork_professional_2.AssemblyInfo.cs
+C:\Training\Project\HomeWork\professional\HomeWork_professional_2\obj\Debug\netcoreapp3.1\HomeWork_professional_2.csproj.CoreCompileInputs.cache
+C:\Training\Project\HomeWork\professional\HomeWork_professional_2\obj\Debug\netcoreapp3.1\HomeWork_professional_2.dll
+C:\Training\Project\HomeWork\professional\HomeWork_professional_2\obj\Debug\netcoreapp3.1\HomeWork_professional_2.pdb
+C:\Training\Project\HomeWork\professional\HomeWork_professional_2\obj\Debug\netcoreapp3.1\HomeWork_professional_2.genruntimeconfig.cache
