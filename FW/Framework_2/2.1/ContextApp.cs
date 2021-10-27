@@ -11,8 +11,8 @@ namespace _2._1
 	class ContextApp:DbContext
 	{
 		public ContextApp() {
-			//Database.EnsureDeleted();
-			//Database.EnsureCreated();
+			Database.EnsureDeleted();
+			Database.EnsureCreated();
 		}
 
 		protected override void OnConfiguring(DbContextOptionsBuilder option) {

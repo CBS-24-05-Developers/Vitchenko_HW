@@ -13,9 +13,6 @@ namespace _2._1
 				Customer customer1 = new Customer() { Name = "Customer1" };
 				Customer customer2 = new Customer() { Name = "Customer2" };
 
-				
-
-
 				db.Customers.Add(customer1);
 				db.Customers.Add(customer2);
 				Product product1 = new Product() { Name = "Product1"};
@@ -31,7 +28,6 @@ namespace _2._1
 				account1.Products.Add(product1);
 
 				db.SaveChanges();
-
 
 				foreach (Account item in db.Accounts) {
 					Console.WriteLine(item.Id + "\t" + item.Name);
